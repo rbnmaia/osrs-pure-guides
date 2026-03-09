@@ -1,6 +1,3 @@
-> This was an experiment based on Wildinator series.
-From tutorial island lvl3 straight into revenants.
-
 ## RULES
 ```
 1. Locked to a combat stlye (magic selected)
@@ -15,12 +12,17 @@ From tutorial island lvl3 straight into revenants.
 9. No minigames allowed unless for teleport or skilling (fishing, mining, etc)
 10. All skills can be trained as long as we have GP from Revenants to continue.
 11. Besides uniques the quest rewards do not count for the GP allowance.
-etc (more will be added as needed)
 ```
+> This was an experiment based on Wildinator series.
+From tutorial island lvl3 straight into revenants.
+
+:shipit: etc (more will be added as needed)
+
 ---
+
 ## Quest List
 
-### Free-to-Play Quests:
+### 🆓 Free-to-Play Quests:
 
   - [ ] Below Ice Mountain
   - [ ] Black Knights' Fortress
@@ -33,8 +35,7 @@ etc (more will be added as needed)
   - [ ] Rune Mysteries
   - [ ] Shield of Arrav
 
----
-### Members Quests:
+### 💰 Members Quests:
 
   - [ ] Dig Site
   - [ ] Tourist Trap
@@ -55,4 +56,3 @@ etc (more will be added as needed)
   - [ ] Tale of the Righteous
   - [ ] Throne of Miscellania
   - [ ] Troll Stronghold
-```
